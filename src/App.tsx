@@ -1100,7 +1100,7 @@ export default function App() {
                     ))}
                   </dl>
                   <p className="mt-6 rounded-xl border border-amber-200 bg-amber-50 p-3 text-xs leading-5 text-amber-900 dark:border-amber-900/70 dark:bg-amber-950/30 dark:text-amber-200">
-                    This profile is saved only in this browser. Changes to employment records must be managed through the directory demo.
+                    Employment details are stored in Supabase and managed through the Employee Directory by users with the appropriate access.
                   </p>
                 </section>
 
