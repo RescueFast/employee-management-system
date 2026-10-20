@@ -1,6 +1,7 @@
 # Nexus Employee Management System
 
-A React, TypeScript, Vite, and Tailwind CSS employee management dashboard.
+A React, TypeScript, Vite, and Tailwind CSS employee management dashboard for
+organizing employee details and workforce operations.
 
 ## Requirements
 
